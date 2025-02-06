@@ -1,4 +1,4 @@
 # TX-and-RX-use-the-SBUS-protocol
-## Schematic diagram:
+## Circuit Diagram:
 ## Image:
 ## Video:
